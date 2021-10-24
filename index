@@ -1,0 +1,81 @@
+<html>
+
+
+<head>
+
+  <link type="text/css" rel="stylesheet" href="stylesheet.css">
+  <link type="text/css" rel="stylesheet" media="(max-width: 800px)" href="phoneStyle.css">
+ 
+
+  <title> MRoussy </title>
+
+</head>
+
+
+<body>
+
+<table style="width:100%">
+<tr>
+<td>
+ <div id="header">
+<h1> MEGAN <br> ROUSSY </h1>
+ </div>
+</td>
+<td>
+ <div id="nav">
+    <ul>
+    <li><a href="index.html">HOME</a></li>
+    <li><a href="CV.html">CV</a></li>
+    <li><a href="Papers.html">PAPERS</a></li>
+    <li><a href="Projects.html">PROJECTS</a></li>
+    <li><a href="AboutMe.html">ABOUT ME</a></li>
+    </ul>
+  </div>
+</td>
+</tr>
+</table>
+
+
+
+  
+
+
+
+<div class="container">
+  <img src="image32.jpeg" style="width:100%" "height:95%;">
+  <p class="centered"> <head1>MEGAN ROUSSY</head1><br><br>PhD candidate in neuroscience<br>University of Western Ontario</p>
+  <a href="#footer"><p> <i class="arrow down"></i></p></a>
+ 
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+    <h2> MY RESEARCH </h2>
+    <p class="black"> I am interested in the mental world of primates – the unique cognitive functioning that exists in humans and to some extant, in non-human primates. I am interested in abstract thought and processes like working memory that rely on mental representations that are separable from sensory and motor signals.
+I am also interested in how cognitive function is impacted by stress and mental illness.
+ </p>
+<p class="black"> My research approach focuses on neuron population coding in the prefrontal cortex in non-human primates. I have used a combination of extracellular recordings, pharmacology, and machine learning to explore working memory representations in naturalistic conditions utilizing virtual reality technology. 
+</p>
+
+
+<br>
+<br>
+
+  <div id="footer">
+<a href="#header"><div class="dot"><i class="arrow2 up"></i> <br> TOP</div></a>
+  </div>
+
+
+
+
+</body>
+
+
+</html>
